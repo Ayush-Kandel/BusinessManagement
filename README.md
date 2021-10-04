@@ -16,8 +16,6 @@ This is the Business Management system  software that keeps the record of sales 
   </ol>
 </details>
 # Design and Aesthetics
-![image](https://user-images.githubusercontent.com/84651025/135804504-6b14957a-8b78-4902-91c6-401b04cd107a.png)
-
 First you get welcomed with a simple page which says, 'Welcome to Business System'. And we can further proceed by pressing 'Click to Proceeed' button
 
 ![image](https://user-images.githubusercontent.com/84651025/135804521-70b2eb53-b5c2-4d3d-b9ac-65a5b3b28faf.png)
